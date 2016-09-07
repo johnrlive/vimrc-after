@@ -30,12 +30,17 @@ The aliases (yav=yadr vim-add-plugin), (ydp=yadr vim-delete-plugin) and (yuv=yad
 You can then commit the change. It's good to have your own fork of this project to do that.
 
 # To Add Custom Aliases
-
 Lots of things we do every day are done with two or three character mnemonic aliases. Please feel free to edit them:
 
-ae # alias edit
-ar # alias reload
+alias edit
+```
+ae
+```
 
+alias reload
+```
+ar 
+```
 
 # To Update Yadr dotfiles 
 Yadr: https://github.com/skwp/dotfiles
