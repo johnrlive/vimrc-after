@@ -1,6 +1,4 @@
-# vimrc-after
-
-To install just vim settings
+# To install just vim settings
 
 ```
 cd ~
@@ -9,7 +7,15 @@ cd ~/vimrc-after
 ln -sf `pwd`/vimrc.after ~/.vimrc.after
 ```
 
-# If Using Yadr 
+# To Install color scheme
+https://github.com/altercation/solarized
+
+```
+cd ~/vimrc-after
+ln -sf `pwd`/solarized.vim ~/.vim/colors
+```
+
+# If Using Yadr dotfiles 
 
 Yadr Link: https://github.com/skwp/dotfiles
 
