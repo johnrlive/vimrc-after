@@ -6,7 +6,7 @@ To install just vim settings
 cd ~
 git clone https://github.com/johnrlive/vimrc-after.git
 cd ~/vimrc-after
-ln -sf `pwd`/vim/vimrc-after/vimrc.after ~/.vimrc.after
+ln -sf `pwd`/vimrc.after ~/.vimrc.after
 ```
 
 # If Using Yadr 
