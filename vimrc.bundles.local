@@ -1,1 +1,1 @@
-Bundle "tpope/vim-pathogen"
+Plug 'scrooloose/nerdtree'
