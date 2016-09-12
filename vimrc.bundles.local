@@ -1,1 +1,8 @@
 Plug 'scrooloose/nerdtree'
+
+" lean & mean status/tabline for vim that's light as air
+Plug 'vim-airline/vim-airline'
+Plug 'vim-airline/vim-airline-themes'
+
+" Color Schemes
+Plug 'flazz/vim-colorschemes'
