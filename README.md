@@ -7,7 +7,13 @@ cd ~/vimrc-after
 ln -sf `pwd`/vimrc.local ~/.vimrc.local
 ln -sf `pwd`/vimrc.bundles.local ~/.vimrc.bundles.local
 ln -sf `pwd`/aliases.local ~/.aliases.local
-ln -sf `pwd`/gitconfig.local ~/.gitconfig.local
+ln -sf `pwd`/zsh/config/chpwd.zsh ~/.zsh/configs/post/chpwd/chpwd.zsh
+```
+
+# To install just vim settings
+
+```
+ls -sf `pwd`/zsh/config/chpwd.zsh ~/.
 ```
 
 
