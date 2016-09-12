@@ -4,6 +4,9 @@ map <return> :NERDTreeToggle<CR>
 
 
 """ UI Tweaks =========================
+" Colors
+colorscheme jellybeans
+
 " Highlight current line
 set cul
 " Highlight current column
@@ -20,7 +23,6 @@ let &t_AF="\e[38;5;%dm"
 set t_ut= " improve screen clearing by using the background color
 set background=dark
 syntax enable
-colorscheme solarized
 set enc=utf-8
 set term=screen-256color
 let $TERM='screen-256color'
