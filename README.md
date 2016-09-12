@@ -7,14 +7,14 @@ cd ~/vimrc-after
 ln -sf `pwd`/vimrc.local ~/.vimrc.local
 ln -sf `pwd`/vimrc.bundles.local ~/.vimrc.bundles.local
 ln -sf `pwd`/aliases.local ~/.aliases.local
-ln -sf `pwd`/zsh/config/chpwd.zsh ~/.zsh/configs/post/chpwd/chpwd.zsh
+ln -sf `pwd`/gitconfig.local ~/.gitconfig.local
 ```
 
 # To add ZSH configs
 
 ```
 cd ~/vimrc-after
-ln -sf `pwd`/zsh/config/chpwd.zsh ~/.zsh/configs/post/chpwd/chpwd.zsh
+ln -sf `pwd`/zsh/configs/chpwd.zsh ~/.zsh/configs/post/chpwd/chpwd.zsh
 ```
 
 
