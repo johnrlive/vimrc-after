@@ -10,10 +10,11 @@ ln -sf `pwd`/aliases.local ~/.aliases.local
 ln -sf `pwd`/zsh/config/chpwd.zsh ~/.zsh/configs/post/chpwd/chpwd.zsh
 ```
 
-# To install just vim settings
+# To add ZSH configs
 
 ```
-ls -sf `pwd`/zsh/config/chpwd.zsh ~/.
+cd ~/vimrc-after
+ln -sf `pwd`/zsh/config/chpwd.zsh ~/.zsh/configs/post/chpwd/chpwd.zsh
 ```
 
 
