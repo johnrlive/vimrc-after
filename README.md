@@ -7,6 +7,7 @@ cd ~/vimrc-after
 ln -sf `pwd`/vimrc.local ~/.vimrc.local
 ln -sf `pwd`/vimrc.bundles.local ~/.vimrc.bundles.local
 ln -sf `pwd`/aliases.local ~/.aliases.local
+ln -sf `pwd`/gitconfig.local ~/.gitconfig.local
 ```
 
 

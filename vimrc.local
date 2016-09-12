@@ -9,12 +9,12 @@ map <return> :NERDTreeToggle<CR>
 
 """ UI Tweaks =========================
 " Colors
-colorscheme jellybeans
+"colorscheme jellybeans
 
 " Highlight current line
 set cul
 " Highlight current column
-set cuc
+"set cuc
 
 " Force 256 Colors
 " set t_Co=256
